@@ -11,5 +11,5 @@ La anotación del corpus se ha realizado de la forma más detallada posible por 
 4.	error cubierto por Avalingua 1–sí 0–no (si el error está cubierto por Avalingua es 1, si el sistema no da ninguna sugerencia para este error, es 0) 
 5.	sugerencia de Avalingua (sugerencia de Avalingua (si hay alguna) en cuanto al error anotado por linguista)
 6.	tipo de corrección (aquí está anotado el tipo de corrección: reemplazo, inserción, eliminación)
-7.	categoría (está indicada la categoría del error: las categorías fueron desarrolladas especialmente con este propósito y se dan a continuación de este capítulo en la Tabla 1) 
+7.	categoría (está indicada la categoría del error) 
 8.	clasificación de resultados de evaluación (los resultados están clasificados según el tipo común, como sigue: TP – verdaderos positivos, FP – falsos positivos, TN – verdaderos negativos y FN – falsos negativos)
